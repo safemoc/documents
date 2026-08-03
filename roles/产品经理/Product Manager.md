@@ -1,5 +1,5 @@
 ### Introduction
-#### [[what is product manager?]]
+#### [[什么是产品经理?]]
 #### product / project manager
 #### role and  Responsibilities 角色与职责
 #### Key Skills 必备技能
