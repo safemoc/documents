@@ -56,6 +56,7 @@ CMD ["/usr/bin/supervisord", "-n", "-c", "/etc/supervisor/supervisord.conf"]
 
 ```
 
+## 构建镜像
 ```sh
 docker build -t <image name> .
 ```
